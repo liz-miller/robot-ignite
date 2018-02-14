@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="move_turtlebot" type="move_wdetection.py" name="move_detect_node"  output="screen">
+  </node>
+</launch>
